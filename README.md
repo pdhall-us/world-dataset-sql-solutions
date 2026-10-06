@@ -6,10 +6,10 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 1          |
+| 🟢 Easy        | 2          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **1**      |
+| **Total**      | **2**      |
 
 ## 📚 Problems
 
@@ -18,6 +18,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | # | Problem | Topics | Solution |
 | --- | --- | --- | --- |
 | 1 | Countries in Asia | WHERE, ORDER BY | [View](Easy/01-countries-in-asia) |
+| 2 | Top 5 Most Populated Cities | ORDER BY, LIMIT | [View](Easy/02-top-5-most-populated-cities) |
 
 ### 🟡 Medium
 
@@ -34,6 +35,9 @@ world-dataset-sql-solutions/
 │
 ├── Easy/
 │   ├── 01-countries-in-asia/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   ├── 02-top-5-most-populated-cities/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   └── ...
