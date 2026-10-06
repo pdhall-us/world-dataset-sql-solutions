@@ -6,10 +6,10 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 3          |
+| 🟢 Easy        | 4          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **3**      |
+| **Total**      | **4**      |
 
 ## 📚 Problems
 
@@ -20,6 +20,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 1 | Countries in Asia | WHERE, ORDER BY | [View](Easy/01-countries-in-asia) |
 | 2 | Top 5 Most Populated Cities | ORDER BY, LIMIT | [View](Easy/02-top-5-most-populated-cities) |
 | 3 | Official Languages Spoken in Europe | JOIN, WHERE, DISTINCT, ORDER BY | [View](Easy/03-official-languages-spoken-in-europe) |
+| 4 | Cities in India | JOIN, WHERE, ORDER BY | [View](Easy/04-cities-in-india) |
 
 ### 🟡 Medium
 
