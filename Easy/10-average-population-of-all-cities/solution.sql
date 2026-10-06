@@ -1,0 +1,1 @@
+select coalesce(round(avg(population),2), NULL) as averagecitypopulation from city;

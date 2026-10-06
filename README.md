@@ -6,10 +6,10 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 9          |
+| 🟢 Easy        | 10         |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **9**      |
+| **Total**      | **10**     |
 
 ## 📚 Problems
 
@@ -26,6 +26,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 7 | Number of Countries in Each Continent | COUNT, GROUP BY | [View](Easy/07-number-of-countries-in-each-continent) |
 | 8 | 10 Smallest Countries by Surface Area | ORDER BY, LIMIT | [View](Easy/08-10-smallest-countries-by-surface-area) |
 | 9 | Countries Where English Is Official | JOIN, WHERE, ORDER BY | [View](Easy/09-countries-where-english-is-official) |
+| 10 | Average Population of All Cities | AVG, ROUND | [View](Easy/10-average-population-of-all-cities) |
 
 ### 🟡 Medium
 
@@ -37,7 +38,7 @@ _No problems solved yet._
 
 ## 📁 Repository Structure
 
-```text
+```text id="5f6kzv"
 world-dataset-sql-solutions/
 │
 ├── Easy/
