@@ -7,9 +7,9 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 10         |
-| 🟡 Medium      | 0          |
+| 🟡 Medium      | 1          |
 | 🔴 Hard        | 0          |
-| **Total**      | **10**     |
+| **Total**      | **11**     |
 
 ## 📚 Problems
 
@@ -30,7 +30,9 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 ### 🟡 Medium
 
-_No problems solved yet._
+| # | Problem | Topics | Solution |
+| --- | --- | --- | --- |
+| 11 | Top 3 Most Spoken Languages in Each Continent | JOIN, GROUP BY, SUM, RANK, Window Functions | [View](Medium/11-top-3-most-spoken-languages-in-each-continent) |
 
 ### 🔴 Hard
 
@@ -38,7 +40,7 @@ _No problems solved yet._
 
 ## 📁 Repository Structure
 
-```text id="5f6kzv"
+```text id="dvt0gq"
 world-dataset-sql-solutions/
 │
 ├── Easy/
@@ -48,6 +50,9 @@ world-dataset-sql-solutions/
 │   └── ...
 │
 ├── Medium/
+│   ├── 11-top-3-most-spoken-languages-in-each-continent/
+│   │   ├── README.md
+│   │   └── solution.sql
 │   └── ...
 │
 ├── Hard/
