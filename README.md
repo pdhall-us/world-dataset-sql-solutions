@@ -6,10 +6,10 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 7          |
+| 🟢 Easy        | 8          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **7**      |
+| **Total**      | **8**      |
 
 ## 📚 Problems
 
@@ -24,6 +24,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 5 | Countries Above 100 Million Population | WHERE, ORDER BY | [View](Easy/05-countries-above-100-million-population) |
 | 6 | Cities in California | WHERE, ORDER BY | [View](Easy/06-cities-in-california) |
 | 7 | Number of Countries in Each Continent | COUNT, GROUP BY | [View](Easy/07-number-of-countries-in-each-continent) |
+| 8 | 10 Smallest Countries by Surface Area | ORDER BY, LIMIT | [View](Easy/08-10-smallest-countries-by-surface-area) |
 
 ### 🟡 Medium
 
@@ -35,7 +36,7 @@ _No problems solved yet._
 
 ## 📁 Repository Structure
 
-```text
+```text id="s8lq5e"
 world-dataset-sql-solutions/
 │
 ├── Easy/
