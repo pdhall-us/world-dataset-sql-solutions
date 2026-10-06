@@ -6,10 +6,10 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 6          |
+| 🟢 Easy        | 7          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **6**      |
+| **Total**      | **7**      |
 
 ## 📚 Problems
 
@@ -23,6 +23,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 4 | Cities in India | JOIN, WHERE, ORDER BY | [View](Easy/04-cities-in-india) |
 | 5 | Countries Above 100 Million Population | WHERE, ORDER BY | [View](Easy/05-countries-above-100-million-population) |
 | 6 | Cities in California | WHERE, ORDER BY | [View](Easy/06-cities-in-california) |
+| 7 | Number of Countries in Each Continent | COUNT, GROUP BY | [View](Easy/07-number-of-countries-in-each-continent) |
 
 ### 🟡 Medium
 
@@ -34,7 +35,7 @@ _No problems solved yet._
 
 ## 📁 Repository Structure
 
-```text id="un7p60"
+```text
 world-dataset-sql-solutions/
 │
 ├── Easy/
