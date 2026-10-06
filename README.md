@@ -6,10 +6,10 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 5          |
+| 🟢 Easy        | 6          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **5**      |
+| **Total**      | **6**      |
 
 ## 📚 Problems
 
@@ -22,6 +22,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 3 | Official Languages Spoken in Europe | JOIN, WHERE, DISTINCT, ORDER BY | [View](Easy/03-official-languages-spoken-in-europe) |
 | 4 | Cities in India | JOIN, WHERE, ORDER BY | [View](Easy/04-cities-in-india) |
 | 5 | Countries Above 100 Million Population | WHERE, ORDER BY | [View](Easy/05-countries-above-100-million-population) |
+| 6 | Cities in California | WHERE, ORDER BY | [View](Easy/06-cities-in-california) |
 
 ### 🟡 Medium
 
@@ -33,7 +34,7 @@ _No problems solved yet._
 
 ## 📁 Repository Structure
 
-```text
+```text id="un7p60"
 world-dataset-sql-solutions/
 │
 ├── Easy/
