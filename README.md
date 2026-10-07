@@ -6,10 +6,10 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 10         |
-| 🟡 Medium      | 6          |
-| 🔴 Hard        | 0          |
-| **Total**      | **16**     |
+| 🟢 Easy | 10 |
+| 🟡 Medium | 7 |
+| 🔴 Hard | 0 |
+| **Total** | **17** |
 
 ## 📚 Problems
 
@@ -38,6 +38,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 14 | Most Populated City in Each Country | JOIN, MAX, Subquery, ORDER BY | [View](Medium/14-most-populated-city-in-each-country) |
 | 15 | Countries With No City Above One Million | NOT EXISTS, Subquery, WHERE, ORDER BY | [View](Medium/15-countries-with-no-city-above-one-million) |
 | 16 | Total Population of Each Region | SUM, GROUP BY, ORDER BY | [View](Medium/16-total-population-of-each-region) |
+| 17 | Countries by Surface Area and Population Density | WHERE, BETWEEN, NULLIF, ROUND, Arithmetic | [View](Medium/17-countries-by-surface-area-and-population-density) |
 
 ### 🔴 Hard
 
