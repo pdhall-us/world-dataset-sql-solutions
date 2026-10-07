@@ -8,8 +8,8 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | -------------- | ---------- |
 | 🟢 Easy | 10 |
 | 🟡 Medium | 10 |
-| 🔴 Hard | 6 |
-| **Total** | **26** |
+| 🔴 Hard | 7 |
+| **Total** | **27** |
 
 ## 📚 Problems
 
@@ -53,6 +53,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 24 | World Population in Countries Where Hindi or Urdu Is Spoken | SUM, DISTINCT, Subquery, IN, ROUND | [View](Hard/24-world-population-in-countries-where-hindi-or-urdu-is-spoken) |
 | 25 | Rank Cities by Population Within Each Region | JOIN, RANK, PARTITION BY, Window Functions | [View](Hard/25-rank-cities-by-population-within-each-region) |
 | 26 | Top 5 Languages Globally by Estimated Speakers | JOIN, SUM, GROUP BY, Arithmetic, ROUND, LIMIT | [View](Hard/26-top-5-languages-globally-by-estimated-speakers) |
+| 27 | Largest City Relative to Country Surface Area | JOIN, RANK, PARTITION BY, Arithmetic, Window Functions | [View](Hard/27-largest-city-relative-to-country-surface-area) |
 
 ## 📁 Repository Structure
 
