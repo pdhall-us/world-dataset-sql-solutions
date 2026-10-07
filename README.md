@@ -7,9 +7,9 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 10         |
-| 🟡 Medium      | 4          |
+| 🟡 Medium      | 6          |
 | 🔴 Hard        | 0          |
-| **Total**      | **14**     |
+| **Total**      | **16**     |
 
 ## 📚 Problems
 
@@ -36,6 +36,8 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 12 | Number of Cities in Each Country | LEFT JOIN, COUNT, GROUP BY, ORDER BY | [View](Medium/12-number-of-cities-in-each-country) |
 | 13 | Official Language Is Not the Most Spoken Language | JOIN, MAX, Subquery, WHERE | [View](Medium/13-official-language-is-not-the-most-spoken-language) |
 | 14 | Most Populated City in Each Country | JOIN, MAX, Subquery, ORDER BY | [View](Medium/14-most-populated-city-in-each-country) |
+| 15 | Countries With No City Above One Million | NOT EXISTS, Subquery, WHERE, ORDER BY | [View](Medium/15-countries-with-no-city-above-one-million) |
+| 16 | Total Population of Each Region | SUM, GROUP BY, ORDER BY | [View](Medium/16-total-population-of-each-region) |
 
 ### 🔴 Hard
 
@@ -43,7 +45,7 @@ _No problems solved yet._
 
 ## 📁 Repository Structure
 
-```text id="2olzqf"
+```text
 world-dataset-sql-solutions/
 │
 ├── Easy/
