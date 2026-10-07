@@ -8,8 +8,8 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | -------------- | ---------- |
 | 🟢 Easy | 10 |
 | 🟡 Medium | 10 |
-| 🔴 Hard | 3 |
-| **Total** | **23** |
+| 🔴 Hard | 4 |
+| **Total** | **24** |
 
 ## 📚 Problems
 
@@ -50,6 +50,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 21 | Continents With Large Population but No Official English | SUM, GROUP BY, HAVING, NOT EXISTS, Subquery | [View](Hard/21-continents-with-large-population-but-no-official-english) |
 | 22 | Capital Below the Country's Average City Population | JOIN, AVG, GROUP BY, Subquery, ROUND | [View](Hard/22-capital-below-the-countrys-average-city-population) |
 | 23 | Country-Wise Language Diversity Index | LEFT JOIN, COUNT DISTINCT, GROUP BY, ORDER BY | [View](Hard/23-country-wise-language-diversity-index) |
+| 24 | World Population in Countries Where Hindi or Urdu Is Spoken | SUM, DISTINCT, Subquery, IN, ROUND | [View](Hard/24-world-population-in-countries-where-hindi-or-urdu-is-spoken) |
 
 ## 📁 Repository Structure
 
