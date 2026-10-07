@@ -8,8 +8,8 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | -------------- | ---------- |
 | 🟢 Easy | 10 |
 | 🟡 Medium | 10 |
-| 🔴 Hard | 7 |
-| **Total** | **27** |
+| 🔴 Hard | 8 |
+| **Total** | **28** |
 
 ## 📚 Problems
 
@@ -54,6 +54,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 25 | Rank Cities by Population Within Each Region | JOIN, RANK, PARTITION BY, Window Functions | [View](Hard/25-rank-cities-by-population-within-each-region) |
 | 26 | Top 5 Languages Globally by Estimated Speakers | JOIN, SUM, GROUP BY, Arithmetic, ROUND, LIMIT | [View](Hard/26-top-5-languages-globally-by-estimated-speakers) |
 | 27 | Largest City Relative to Country Surface Area | JOIN, RANK, PARTITION BY, Arithmetic, Window Functions | [View](Hard/27-largest-city-relative-to-country-surface-area) |
+| 28 | Top 10 Cities Where English Is Not Official | JOIN, NOT EXISTS, Subquery, ORDER BY, LIMIT | [View](Hard/28-top-10-cities-where-english-is-not-official) |
 
 ## 📁 Repository Structure
 
