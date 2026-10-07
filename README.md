@@ -8,8 +8,8 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | -------------- | ---------- |
 | 🟢 Easy | 10 |
 | 🟡 Medium | 10 |
-| 🔴 Hard | 0 |
-| **Total** | **20** |
+| 🔴 Hard | 1 |
+| **Total** | **21** |
 
 ## 📚 Problems
 
@@ -45,7 +45,9 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 
 ### 🔴 Hard
 
-_No problems solved yet._
+| # | Problem | Topics | Solution |
+| --- | --- | --- | --- |
+| 21 | Continents With Large Population but No Official English | SUM, GROUP BY, HAVING, NOT EXISTS, Subquery | [View](Hard/21-continents-with-large-population-but-no-official-english) |
 
 ## 📁 Repository Structure
 
@@ -65,6 +67,9 @@ world-dataset-sql-solutions/
 │   └── ...
 │
 ├── Hard/
+│   ├── 21-continents-with-large-population-but-no-official-english/
+│   │   ├── README.md
+│   │   └── solution.sql
 │   └── ...
 │
 └── README.md
