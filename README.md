@@ -7,9 +7,9 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy | 10 |
-| 🟡 Medium | 7 |
+| 🟡 Medium | 8 |
 | 🔴 Hard | 0 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 ## 📚 Problems
 
@@ -39,6 +39,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 15 | Countries With No City Above One Million | NOT EXISTS, Subquery, WHERE, ORDER BY | [View](Medium/15-countries-with-no-city-above-one-million) |
 | 16 | Total Population of Each Region | SUM, GROUP BY, ORDER BY | [View](Medium/16-total-population-of-each-region) |
 | 17 | Countries by Surface Area and Population Density | WHERE, BETWEEN, NULLIF, ROUND, Arithmetic | [View](Medium/17-countries-by-surface-area-and-population-density) |
+| 18 | Countries With More Than 3 Official Languages | JOIN, COUNT, GROUP BY, HAVING | [View](Medium/18-countries-with-more-than-3-official-languages) |
 
 ### 🔴 Hard
 
