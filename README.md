@@ -8,8 +8,27 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | -------------- | ---------- |
 | 🟢 Easy | 10 |
 | 🟡 Medium | 10 |
-| 🔴 Hard | 9 |
-| **Total** | **29** |
+| 🔴 Hard | 10 |
+| **Total** | **30** |
+
+## 🧑‍💻 SQL Practice Environment
+
+I developed a separate **LeetCode-inspired SQL practice application** to work through the same 30 World Dataset problems in an interactive environment.
+
+### 🌐 [World SQL Practice](https://github.com/pdhall-us/world-sql-practice)
+
+The application provides:
+
+- **30 SQL Questions** — Easy, Medium, and Hard problems with schemas, examples, and hints.
+- **Interactive MySQL Editor** — SQL syntax highlighting, autocomplete, and query formatting.
+- **Automated Answer Validation** — Run queries and submit solutions against multiple test datasets.
+- **Custom Test Cases** — Test SQL queries using custom input data.
+- **Real MySQL Database** — Practice using the official World sample dataset.
+- **Docker Support** — Run the application and database locally.
+
+**Repository:** [pdhall-us/world-sql-practice](https://github.com/pdhall-us/world-sql-practice)
+
+> This repository contains my SQL solutions, while **World SQL Practice** provides the interactive environment for solving and validating the same problems.
 
 ## 📚 Problems
 
@@ -56,6 +75,7 @@ A structured collection of my solutions to **World Dataset SQL problems**, focus
 | 27 | Largest City Relative to Country Surface Area | JOIN, RANK, PARTITION BY, Arithmetic, Window Functions | [View](Hard/27-largest-city-relative-to-country-surface-area) |
 | 28 | Top 10 Cities Where English Is Not Official | JOIN, NOT EXISTS, Subquery, ORDER BY, LIMIT | [View](Hard/28-top-10-cities-where-english-is-not-official) |
 | 29 | Countries Where Two Cities Hold More Than 50% of Population | ROW_NUMBER, PARTITION BY, SUM, GROUP BY, HAVING | [View](Hard/29-countries-where-two-cities-hold-more-than-50-percent-of-population) |
+| 30 | Create a Country Summary View | CREATE VIEW, LEFT JOIN, COUNT, Subquery, Aggregation | [View](Hard/30-create-a-country-summary-view) |
 
 ## 📁 Repository Structure
 
